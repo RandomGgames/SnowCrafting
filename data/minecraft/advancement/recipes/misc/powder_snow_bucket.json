@@ -1,0 +1,25 @@
+{
+    "parent": "minecraft:recipes/root",
+    "criteria": {
+        "bucket": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:bucket"
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "bucket"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "minecraft:powder_snow_bucket"
+        ]
+    }
+}

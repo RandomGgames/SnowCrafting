@@ -1,7 +1,3 @@
 # Snow Craft
 
-<!-- Description here -->
-
-## Features
-
-<!-- Bulleted features here -->
+Ice and powder snow buckets can both now be crafted using snow blocks!

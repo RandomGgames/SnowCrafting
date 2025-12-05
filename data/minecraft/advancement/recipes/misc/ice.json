@@ -1,0 +1,25 @@
+{
+    "parent": "minecraft:recipes/root",
+    "criteria": {
+        "snow_block": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:snow_block"
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "snow_block"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "minecraft:ice"
+        ]
+    }
+}
