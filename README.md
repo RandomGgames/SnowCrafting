@@ -2,5 +2,9 @@
 
 Ice and powder snow buckets can both now be crafted using snow blocks!
 
+Powered snow buckets are crafted with a bucket and a snow block on top of it. The recipe automatically unlocks when a bucket is picked up.
+
+Ice can be crafted using a 2x2 of snow blocks, remving the need for silk touch. The recipe is automatically unlocked when a snow block is picked up.
+
 <img width="528" height="235" alt="powder_snow_bucket_recipe" src="https://github.com/user-attachments/assets/0a80cc56-287d-4fec-9445-d080774dc520" />
 <img width="528" height="235" alt="ice_recipe" src="https://github.com/user-attachments/assets/429e422e-89c9-4e28-92e0-ae4d3bcae6d9" />
